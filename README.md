@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://niranjangirhe.github.io/Connect-with-me/">Niranjan Girhe<a></h1>
+# <h1 align="center">Hi, I'm <a href="https://niranjangirhe.github.io/Connect-with-me/">Niranjan Girhe</a></h1>
     
 <p align="center">
     <img src="./assest/me.png"  width="70px">
@@ -11,6 +11,7 @@
 📈 I am a Android Developer<br>
 
 📫 Reach me at <a href="mailto:niranjangirheindia@gmail.com">niranjangirheindia@gmail.com</a><br>
+📧 Connect with <a href="https://niranjangirhe.github.io/Connect-with-me/">me</a>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                  
 <p>
@@ -38,8 +39,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=open-elective&theme=radical)](https://github.com/niranjangirhe/open-elective)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=killing_Tech&theme=radical)](https://github.com/niranjangirhe/killing_Tech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=nganime&theme=radical)](https://github.com/niranjangirhe/nganime)
-</div>
 
-------
-Credit: [niranjangirhe](https://niranjangirhe.github.io/Connect-with-me/)
-Last Edited on: 15/4/2021
+</div>
