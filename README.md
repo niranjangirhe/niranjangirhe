@@ -38,6 +38,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=ShetkariMitraApp&theme=radical)](https://github.com/niranjangirhe/ShetkariMitraApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=open-elective&theme=radical)](https://github.com/niranjangirhe/open-elective)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=killing_Tech&theme=radical)](https://github.com/niranjangirhe/killing_Tech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=nganime&theme=radical)](https://github.com/niranjangirhe/nganime)
+
 
 </div>
