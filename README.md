@@ -29,7 +29,7 @@
 </p>
 
  <strong>🎯 Github Streak Stats :</strong><br><br>
-[![Niranjan's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=niranjangirhe&currStreakNum=2FD3EB&theme=dark&ring=D93A7C&fire=D93A7C&sideLabels=A8FDF6)]
+![Niranjan's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=niranjangirhe&currStreakNum=2FD3EB&theme=dark&ring=D93A7C&fire=D93A7C&sideLabels=A8FDF6)
 
 <strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjangirhe&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
