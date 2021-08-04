@@ -28,16 +28,20 @@
 <img src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" height="25">
 </p>
 
+ <strong>🎯 Github Streak Stats :</strong><br><br>
+[![Niranjan's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=niranjangirhe&currStreakNum=2FD3EB&theme=dark&ring=D93A7C&fire=D93A7C&sideLabels=A8FDF6)]
 
 <strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjangirhe&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-
-
 
 <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=ShetkariMitraApp&theme=radical)](https://github.com/niranjangirhe/ShetkariMitraApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=open-elective&theme=radical)](https://github.com/niranjangirhe/open-elective)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niranjangirhe&repo=killing_Tech&theme=radical)](https://github.com/niranjangirhe/killing_Tech)
 
+ <p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/niranjangirhr/count.svg" />
+</p>
 
 </div>
