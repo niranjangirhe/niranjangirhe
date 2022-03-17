@@ -7,8 +7,9 @@
 <div>
 <strong>About Me:</strong><br>
 💻 I’m currently Student at MITAOE, Alandi<br>
-📚 I’m a Second year Computer Engineering undergraduate in University of Pune<br>
-📈 I am a Android Developer<br>
+📚 I’m a Third year Computer Engineering undergraduate in University of Pune<br>
+📈  I am an Android and Game developer Developer<br>
+📈  Projects in DBMS, AIML, Game Development, Animation<br>
 
 📫 Reach me at <a href="mailto:niranjangirheindia@gmail.com">niranjangirheindia@gmail.com</a><br>
 📧 Connect with <a href="https://niranjangirhe.github.io/Connect-with-me/">me</a>
