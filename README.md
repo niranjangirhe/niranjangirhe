@@ -1,7 +1,7 @@
-# <h1 align="center">Hi, I'm <a href="https://niranjangirhe.github.io/Connect-with-me/">Niranjan Girhe</a></h1>
+# <h1 align="center">Hi, I'm <a href="https://girhe.com">Niranjan Girhe</a></h1>
     
 <p align="center">
-    <img src="./assest/me.png"  width="70px">
+    <img src="[./assest/me.png](https://raw.githubusercontent.com/niranjangirhe/niranjangirhe/main/assest/me.png)"  width="70px">
 </p>
 
 <div>
@@ -12,7 +12,7 @@
 📈  Projects in DBMS, AIML, Game Development, Animation<br>
 
 📫 Reach me at <a href="mailto:niranjangirheindia@gmail.com">niranjangirheindia@gmail.com</a><br>
-📧 Connect with <a href="https://niranjangirhe.github.io/Connect-with-me/">me</a>
+📧 Connect with <a href="https://girhe.com">me</a>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                  
 <p>
