@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://girhe.com">Niranjan Girhe</a></h1>
     
 <p align="center">
-    <img src="[./assest/me.png](https://raw.githubusercontent.com/niranjangirhe/niranjangirhe/main/assest/me.png)"  width="70px">
+    <img src="https://raw.githubusercontent.com/niranjangirhe/niranjangirhe/main/assest/me.png"  width="70px">
 </p>
 
 <div>
