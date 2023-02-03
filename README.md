@@ -4,6 +4,10 @@
     <img src="https://raw.githubusercontent.com/niranjangirhe/niranjangirhe/main/assest/me.png"  width="70px">
 </p>
 
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+<a href=#><img src="contributions.svg"></a>
+
 <div>
 <strong>About Me:</strong><br>
 💻 I’m currently Student at MITAOE, Alandi<br>
