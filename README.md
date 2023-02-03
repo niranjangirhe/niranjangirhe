@@ -2,11 +2,13 @@
     
 <p align="center">
     <img src="https://raw.githubusercontent.com/niranjangirhe/niranjangirhe/main/assest/me.png"  width="70px">
+    <br>
+    <img src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif"  width="500px">
+    <br>
+    <a href=#><img src="contributions.svg"></a>
 </p>
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
 
 <div>
 <strong>About Me:</strong><br>
