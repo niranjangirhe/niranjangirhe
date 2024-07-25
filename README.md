@@ -12,7 +12,7 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 I’m currently working as Blockchain engineer at Shell (Contractor)<br>
+💻 I’m currently working as Blockchain engineer at Shell (Contractor) and Full Stack developer at Impactility<br>
 📚 Did my Computer Engineering from University of Pune<br>
 📈  Blockchain Innovator Specializing in SSI & Verifiable Credentials (W3C DID)<br>
 📈   Solidity | Next js | MERN | Mitacs GRI @ Ontario Tech University | SIH & UIA Hackathon 2022 Winner<br>
