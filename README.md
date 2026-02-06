@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://girhe.com">Niranjan Girhe</a></h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/niranjangirhe/niranjangirhe/main/assest/me-comm.png" width="100px" style="border-radius: 50%;">
-    <br>
-    <img src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" width="500px">
-    <br>
     <a href="https://github.com/niranjangirhe">
         <img src="contributions.svg">
     </a>
